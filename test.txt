@@ -9,3 +9,5 @@ some cont
 master?
 
 branch 2
+
+stroka dlya branch
