@@ -10,4 +10,8 @@ master?
 
 branch 2
 
+
 eshe tekst
+
+stroka dlya branch
+
